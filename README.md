@@ -8,10 +8,9 @@ Construindo uma notícia fictícia para treinar habilidades de programação.
 
 ## Tecnologias Usadas 🤖
 
-- VSCODE.
-- JavaScript.
-- HTML5.
-- CSS.
+- JavaScript
+- HTML5
+- CSS
 
 ## Autor/Desenvolvido 💻
 
